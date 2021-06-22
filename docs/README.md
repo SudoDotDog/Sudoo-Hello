@@ -1,2 +1,3 @@
 # Sudoo-Hello
-:koala: Hello
+
+Hello
